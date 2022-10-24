@@ -37,6 +37,7 @@ Este *texto* contiene varios **formatos**, incluso puedo ~~***combinar***~~ dist
 |3|4|
 
 Para más info pulsa [aquí](https://markdown.es/)
+<https://markdown.es/editores-markdown/>
 
 ![Markdown example](https://miguelpaz.github.io/assets/images/markdownpreview.png "Markdown example")
 
