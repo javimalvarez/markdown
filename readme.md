@@ -38,7 +38,7 @@ Este *texto* contiene varios **formatos**, incluso puedo ~~***combinar***~~ dist
 
 Para más info pulsa [aquí](https://markdown.es/)
 
-![Logo](https://es.wikipedia.org/wiki/Markdown#/media/Archivo:Markdown-mark.svg "Logo")
+![Markdown example](https://miguelpaz.github.io/assets/images/markdownpreview.png "Markdown example")
 
 
 
