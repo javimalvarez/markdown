@@ -1,4 +1,4 @@
-Tipos de encabezados:  
+Esto es un ejemplo de codigo en markdown 
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3
