@@ -20,7 +20,7 @@
         2. [TEXTO PREFORMATEADO `<pre>`](#Encabezado232)
     4. [IMÁGENES](#Encabezado24)
 3. [OMITIR MARKDOWN](#Encabezado3)
-4. MULTIMARKDOWN (MMD)
+4. [MULTIMARKDOWN (MMD)](#Encabezado4)
     1. ABREVIACIONES
     2. DEFINICIONES
     3. METADATOS
@@ -282,8 +282,27 @@ _  guión bajo
 .  punto
 !  exclamación
 ~~~
+### MULTIMARKDOWN (MMD)<a name="Encabezado4"></a>
+Multimarkdown (también conocido como MMD), nació de la necesidad de **Fletcher Penney** de escribir documentos académicos utilizando Markdown.
+
+Así que este lenguaje no solo incluye todas las características que has visto anteriormente en la sintaxis de Markdown, sino que **vitamina** esta última añadiendo la capacidad de escribir **notas al pie de página, tablas, o metadatos**.
+
+**No todas las aplicaciones soportan Multimarkdown**.
+
+Así que si intentas utilizar este tipo de sintaxis y no obtienes los resultados esperados, comprueba que la aplicación/servicio donde estás escribiendo ofrece dicho soporte.
+#### ABREVIACIONES<a name="Encabezado41"></a>
+Si en tus artículos utilizas muchas abreviaciones, puede ser un incordio tener que explicarlas siempre (por ejemplo, entre paréntesis) a nuevos lectores.
+
+Para evitarlo, puedes definir abreviaciones en Multimarkdown utilizando la siguiente sintaxis.
+~~~
+MMD ofrece muchas más posibilidades que MD.
+*[MMD]: Abreviación para Multimarkdown
+*[MD]: Abreviación para Markdown
+~~~
+Si te fijas, es igual que cuando creabas links de referencia, solo que en este caso precedidos por un asterisco.
 
 
+Para descubrir cuál es el resultado final, no tienes más que **dejar el puntero del ratón sobre la palabra *[MMD]: Abreviación para Multimarkdown o *[MD]: Abreviación para Markdown**.
 |Columna1|Columna2|
 |--|--|
 |1|2|
@@ -292,11 +311,6 @@ _  guión bajo
 Para más info pulsa [aquí](https://markdown.es/)
 
 ![Logo](https://es.wikipedia.org/wiki/Markdown#/media/Archivo:Markdown-mark.svg "Logo")
-
-
-
-## Encabezado en el documento {#EncabezadoReferencia}
-En un texto cuaquiera se añade [un enlace al encabezado](#EncabezadoReferencia) definido en el ejemplo anterior.
 
 
 
