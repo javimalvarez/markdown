@@ -1,8 +1,8 @@
 # MANUAL DE MARKDOWN
 ### ÍNDICE
 1. [ELEMENTOS DE BLOQUE](#Encabezado1)
-    1. [PÁRRAFOS Y SALTOS DE LÍNEA](#REFERENCIA12)
-    2. [ENCABEZADOS](#REFERENCIA13)
+    1. [PÁRRAFOS Y SALTOS DE LÍNEA](#Encabezado11)
+    2. [ENCABEZADOS](#Encabezado12)
     3. CITAS
     4. LISTAS
     5. CÓDIGOS DE BLOQUE
@@ -23,8 +23,8 @@
     5. REFERENCIAS CRUZADAS
     6. TABLAS
 
-### ELEMENTOS DE BLOQUE{#Encabezado1}
-#### PÁRRAFOS Y SALTOS DE LÍNEA{#REFERENCIA12}
+### ELEMENTOS DE BLOQUE<a name="Encabezado1"></a>
+#### PÁRRAFOS Y SALTOS DE LÍNEA<a name="Encabezado11"></a>
 Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco **(pulsando dos veces intro)**
 
 Al igual que sucede con HTML, **Markdown no soporta dobles líneas en blanco**, así que si intentas generarlas estas se convertirán en una sola al procesarse.
@@ -39,7 +39,7 @@ por la terraza de madera"*
 
 Donde cada verso tiene dos espacios en blanco al final.
 
-#### ENCABEZADOS{#REFERENCIA13}
+#### ENCABEZADOS<a name="Encabezado12"></a>
 
 Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados. Debes usarlos añadiendo uno por cada nivel.
 
@@ -217,7 +217,8 @@ Para más info pulsa [aquí](https://markdown.es/)
 
 
 
-
+## Encabezado en el documento {#EncabezadoReferencia}
+En un texto cuaquiera se añade [un enlace al encabezado](#EncabezadoReferencia) definido en el ejemplo anterior.
 
 
 
