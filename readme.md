@@ -301,8 +301,10 @@ MMD ofrece muchas más posibilidades que MD.
 ~~~
 Si te fijas, es igual que cuando creabas links de referencia, solo que en este caso precedidos por un asterisco.
 
+*[MMD]: Abreviación para Multimarkdown
+*[MD]: Abreviación para Markdown
 
-Para descubrir cuál es el resultado final, no tienes más que **dejar el puntero del ratón sobre la palabra *[MMD]: Abreviación para Multimarkdown o *[MD]: Abreviación para Markdown**.
+Para descubrir cuál es el resultado final, no tienes más que **dejar el puntero del ratón sobre la palabra MMD o MD**.
 |Columna1|Columna2|
 |--|--|
 |1|2|
@@ -311,6 +313,7 @@ Para descubrir cuál es el resultado final, no tienes más que **dejar el punter
 Para más info pulsa [aquí](https://markdown.es/)
 
 ![Logo](https://es.wikipedia.org/wiki/Markdown#/media/Archivo:Markdown-mark.svg "Logo")
+
 
 
 
